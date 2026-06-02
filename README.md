@@ -1,5 +1,3 @@
-# Tatum-Portfolio.html-css
-# Webpage_project.html-css
 # Personal Portfolio — Tatum Booysen
 
 A simple, responsive personal portfolio built with HTML, CSS, and a bit of JavaScript. It highlights my skills, background, and contact information as a practicing software developer from Cape Town, South Africa.
